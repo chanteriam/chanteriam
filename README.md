@@ -2,7 +2,7 @@
 🎓 I am currently a second year Masters student working toward my [MS in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at The University of Chicago Harris School of Public Policy.<br>
 💻 I am also a Summer 2023 [Coding it Forward](https://www.codingitforward.com/fellowships) Data Engineering Fellow in the Economic Reiumbursable Surveys Division at the United States Census Bureau.<br><br>
 
-🎓 BA Sociology, Computer Science minor from [Vanderbilt University](vanderbilt.edu)<br>
+🎓 BA Sociology, Computer Science minor from [Vanderbilt University](https://www.vanderbilt.edu).<br>
 🌱 I am passionate about data and software engineering, data science, machine learning, and the intersection of social welfare and technology policy.<br>
 🔭 I have a background in sociology research. <br>
 
