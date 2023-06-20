@@ -9,12 +9,12 @@
 CURRENTLY LEARNING: Flask application development, Tableau
 
 
-## 🌐 Socials and Contact:
+## 🌐 Socials and Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanteria-milner/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanteria.milner@gmail.com?subject=Introduction&body=Hello%20Chanteria%2C%0A%0AI%20hope%20your%20day%20is%20going%20well.%20I%20found%20your%20profile%20on%20GitHub%20and%20I%20was%20interested%20in%20%3CINSERT%20MESSAGE%3E.%0A%0AAll%20the%20best%2C%0A%3CINSERT%20NAME%3E)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## Data Engineering
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -26,7 +26,7 @@ CURRENTLY LEARNING: Flask application development, Tableau
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=chanteriam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chanteriam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanteriam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
