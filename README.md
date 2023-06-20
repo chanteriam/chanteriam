@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩🏿‍💻 About Me
 🎓 I am currently a second year Masters student working toward my [MS in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at The University of Chicago Harris School of Public Policy.<br>
 💻 I am also a Summer 2023 [Coding it Forward](https://www.codingitforward.com/summer-fellowships) Data Engineering Fellow in the Economic Reiumbursable Surveys Division at the United States Census Bureau.<br><br>
 
