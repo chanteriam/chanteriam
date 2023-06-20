@@ -12,7 +12,7 @@ CURRENTLY LEARNING: Flask application development, Tableau
 ## 🌐 Socials and Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanteria-milner/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Introduction&to=chanteria.milner@uchicago.edu&body=Hello+Chanteria,%0A%0AI+hope+your+day+is+going+well.+I+found+your+profile+on+GitHub+and+I+was+interested+in+%3CINSERT+MESSAGE%3E.%0A%0AAll+the+best,%0A%3CINSERT+NAME%3E)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=%3CINSERT+SUBJECT%3E&to=chanteria.milner@uchicago.edu&body=Hello+Chanteria,%0A%0AI+hope+your+day+is+going+well.+I+found+your+profile+on+GitHub+and+I+was+interested+in+%3CINSERT+MESSAGE%3E.%0A%0AAll+the+best,%0A%3CINSERT+NAME%3E)
 
 # 💻 Tech Stack
 
