@@ -12,7 +12,7 @@ CURRENTLY LEARNING: Flask application development, Tableau
 ## 🌐 Socials and Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanteria-milner/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:chanteria.milner@gmail.com?subject=Introduction&body=Hello%20Chanteria%2C%0A%0AI%20hope%20your%20day%20is%20going%20well.%20I%20found%20your%20profile%20on%20GitHub%20and%20I%20was%20interested%20in%20%3CINSERT%20MESSAGE%3E.%0A%0AAll%20the%20best%2C%0A%3CINSERT%20NAME%3E](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Introduction&to=chanteria.milner@uchicago.edu&body=Hello+Chanteria,%0A%0AI+hope+your+day+is+going+well.+I+found+your+profile+on+GitHub+and+I+was+interested+in+%3CINSERT+MESSAGE%3E.%0A%0AAll+the+best,%0A%3CINSERT+NAME%3E))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Introduction&to=chanteria.milner@uchicago.edu&body=Hello+Chanteria,%0A%0AI+hope+your+day+is+going+well.+I+found+your+profile+on+GitHub+and+I+was+interested+in+%3CINSERT+MESSAGE%3E.%0A%0AAll+the+best,%0A%3CINSERT+NAME%3E)
 
 # 💻 Tech Stack
 
