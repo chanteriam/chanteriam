@@ -6,7 +6,7 @@
 🌱 I am passionate about data and software engineering, data science, machine learning, and the intersection of social welfare and technology policy.<br>
 🔭 I have a background in sociology research. <br>
 
-CURRENTLY LEARNING: Flask application development, Tableau
+CURRENTLY LEARNING: Software Engineering for Civic Technology; Advanced Natural Language Processing
 
 
 ## 🌐 Socials and Contact
