@@ -1,12 +1,14 @@
 # 👩🏿‍💻 About Me
-🎓 I am currently a second year Masters student working toward my [MS in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at The University of Chicago Harris School of Public Policy.<br>
-💻 I am also a Summer 2023 [Coding it Forward](https://www.codingitforward.com/fellowships) Data Engineering Fellow in the Economic Reiumbursable Surveys Division at the United States Census Bureau.<br><br>
+## Professional
+💻 I am a Software Engineer in the Economic Reiumbursable Surveys Division at the United States Census Bureau. My work focuses on data and workflow modernization by developing applications and implementing technological infrastructure that improves the U.S. Census's survey processing capabilities.
 
+## Education
 🎓 BA Sociology, Computer Science minor from [Vanderbilt University](https://www.vanderbilt.edu).<br>
-🌱 I am passionate about data and software engineering, data science, machine learning, and the intersection of social welfare and technology policy.<br>
-🔭 I have a background in sociology research. <br>
+🎓 [MS in Computational Analysis and Public Policy](https://capp.uchicago.edu/) from The University of Chicago Harris School of Public Policy.
 
-CURRENTLY LEARNING: Software Engineering for Civic Technology; Advanced Natural Language Processing
+## Personal
+🌱 I am passionate about data and software engineering, data science, machine learning, and the intersection of social welfare and technology policy.<br>
+🔭 I have a background in sociology, social science, and public opinion research; data science and machine learning; and software engineering and full-stack web development.<br>
 
 
 ## 🌐 Socials and Contact
@@ -27,8 +29,7 @@ CURRENTLY LEARNING: Software Engineering for Civic Technology; Advanced Natural 
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanteriam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=chanteriam)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api?username=chanteriam&show_icons=true&theme=dracula)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chanteriam&icon=0&color=0)](https://visitcount.itsvg.in)
