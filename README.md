@@ -1,6 +1,6 @@
 # 👩🏿‍💻 About Me
 ## Professional
-💻 I am a Software Engineer in the Economic Reiumbursable Surveys Division at the United States Census Bureau. My work focuses on data and workflow modernization by developing applications and implementing technological infrastructure that improves the U.S. Census's survey processing capabilities.
+💻 I am an Engineer at Tavern Research. My work focuses on automating survey data collection workflows and developing AI/LLM-powered research tools.
 
 ## Education
 🎓 BA Sociology, Computer Science minor from [Vanderbilt University](https://www.vanderbilt.edu).<br>
